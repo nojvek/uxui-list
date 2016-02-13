@@ -28,5 +28,5 @@ I set a goal for 2016 that I'd like to learn more about the soft are of design a
  * [Kerning](https://designschool.canva.com/blog/kerning/)
  * [UI Garage](http://uigarage.net/)
  * [Web Listy](http://www.weblisty.net/)
-
+ * [Method of action - Games to learn design](http://method.ac/)
  
