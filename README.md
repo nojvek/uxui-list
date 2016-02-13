@@ -16,6 +16,7 @@ I set a goal for 2016 that I'd like to learn more about the soft are of design a
  * [Best designed apps of 2015](https://medium.com/swlh/the-21-best-designed-apps-of-2015-6e1bc2f459d3#.dze2ha84p)
  * [tookapic - Free stock photography](https://stock.tookapic.com/)
  * [TMW - timeless UI techniques](http://thenextweb.com/dd/2016/01/28/beyond-design-trends-timeless-user-interface-techniques/)
+ * [Keep portland weird](http://keepearthquakesweird.com/)
 
 ## Tutorials & Libraries
  * [designforstartup.net](http://designforstartup.net/)
