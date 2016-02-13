@@ -17,7 +17,7 @@ I set a goal for 2016 that I'd like to learn more about the soft are of design a
  * [tookapic - Free stock photography](https://stock.tookapic.com/)
  * [TMW - timeless UI techniques](http://thenextweb.com/dd/2016/01/28/beyond-design-trends-timeless-user-interface-techniques/)
 
-## Tutorials
+## Tutorials & Libraries
  * [designforstartup.net](http://designforstartup.net/)
  * [Canvas - most popular themeforest template with 550+ pages](http://themes.semicolonweb.com/html/canvas/intro.php)
  * [Medium - best design writing](https://medium.com/life-learning/the-best-design-writing-of-2015-7776699d4796#.8gdz7yin0)
@@ -26,5 +26,6 @@ I set a goal for 2016 that I'd like to learn more about the soft are of design a
  * [UI Design books](http://www.adhamdannaway.com/blog/ui-design/ui-design-books)
  * [Kerning](https://designschool.canva.com/blog/kerning/)
  * [UI Garage](http://uigarage.net/)
+ * [Web Listy](http://www.weblisty.net/)
 
  
