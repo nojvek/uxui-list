@@ -5,6 +5,7 @@ Collection of links related to UX UI &amp; Front end development
 I set a goal for 2016 that I'd like to learn more about the soft are of design and user interaction.
 
 ## Themes & Inspiration
+ * [DesignGate](http://design-gate.co.uk)
  * [adhamdannaway.com - Great UI/UX designer from Australia that has a nice portfolio site](http://www.adhamdannaway.com/about)
  * [desktopneo.com - Rethinking desktop video](https://www.desktopneo.com/)
  * [Dribble - Potato landing page](https://dribbble.com/shots/2042501-Potato/attachments/363345)
