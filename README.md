@@ -6,6 +6,7 @@ I set a goal for 2016 that I'd like to learn more about the soft are of design a
 
 ## Themes & Inspiration
  * [Html Inspiration](http://htmlinspiration.com)
+ * [Devtools online](https://www.devtools.online)
  * [DesignGate](http://design-gate.co.uk)
  * [adhamdannaway.com - Great UI/UX designer from Australia that has a nice portfolio site](http://www.adhamdannaway.com/about)
  * [desktopneo.com - Rethinking desktop video](https://www.desktopneo.com/)
