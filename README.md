@@ -14,7 +14,7 @@ I set a goal for 2016 that I'd like to learn more about the soft are of design a
  * [adhamdannaway.com - Great UI/UX designer from Australia that has a nice portfolio site](http://www.adhamdannaway.com/about)
  * [desktopneo.com - Rethinking desktop video](https://www.desktopneo.com/)
  * [Dribble - Potato landing page](https://dribbble.com/shots/2042501-Potato/attachments/363345)
- * [Faicco's pizza - Parallax is the big think nowadays](https://vimeo.com/127122956)
+ * [Faicco's pizza - Parallax](https://vimeo.com/127122956)
  * [Driblle year in review](https://dribbble.com/stories/2016/01/15/2015-year-in-review)
  * [Year in review for major sites](http://yearinreview.co/)
  * [Codepen Top 100](http://codepen.io/2015/popular/pens/)
