@@ -23,6 +23,7 @@ I set a goal for 2016 that I'd like to learn more about the soft art of design a
  * [tookapic - Free stock photography](https://stock.tookapic.com/)
  * [TMW - timeless UI techniques](http://thenextweb.com/dd/2016/01/28/beyond-design-trends-timeless-user-interface-techniques/)
  * [Keep portland weird](http://keepearthquakesweird.com/)
+ * [Mac outline](http://outline.ws/)
 
 ## Tutorials & Libraries
  * [designforstartup.net](http://designforstartup.net/)
