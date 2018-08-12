@@ -5,6 +5,7 @@ Collection of links related to UX UI &amp; Front end development
 I set a goal for 2016 that I'd like to learn more about the soft art of design and user interaction.
 
 ## Themes & Inspiration
+ * [UX Design Libraries](https://uxresources.design/libraries/)
  * [UI Interactions Insipiration](http://uiinteractions.com)
  * [UI Haus](http://beta.uihaus.com/)
  * [Awwwards](http://www.awwwards.com/awards-of-the-day/)
